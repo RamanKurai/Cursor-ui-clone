@@ -23,6 +23,3 @@ This clone faithfully rebuilds the core visual and structural sections of the or
   Simple footer with links and copyright
 
 Everything you see is handcrafted using semantic HTML and pure CSS.
-
-```css
-font-family: "Inter", system-ui, sans-serif;
